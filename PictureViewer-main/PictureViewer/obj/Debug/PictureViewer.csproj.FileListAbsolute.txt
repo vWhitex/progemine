@@ -1,0 +1,22 @@
+C:\Users\Kristofer\source\repos\PictureViewer\PictureViewer\bin\Debug\PictureViewer.exe.config
+C:\Users\Kristofer\source\repos\PictureViewer\PictureViewer\bin\Debug\PictureViewer.exe
+C:\Users\Kristofer\source\repos\PictureViewer\PictureViewer\bin\Debug\PictureViewer.pdb
+C:\Users\Kristofer\source\repos\PictureViewer\PictureViewer\obj\Debug\PictureViewer.csproj.AssemblyReference.cache
+C:\Users\Kristofer\source\repos\PictureViewer\PictureViewer\obj\Debug\PictureViewer.csproj.SuggestedBindingRedirects.cache
+C:\Users\Kristofer\source\repos\PictureViewer\PictureViewer\obj\Debug\PictureViewer.Form1.resources
+C:\Users\Kristofer\source\repos\PictureViewer\PictureViewer\obj\Debug\PictureViewer.Properties.Resources.resources
+C:\Users\Kristofer\source\repos\PictureViewer\PictureViewer\obj\Debug\PictureViewer.csproj.GenerateResource.cache
+C:\Users\Kristofer\source\repos\PictureViewer\PictureViewer\obj\Debug\PictureViewer.csproj.CoreCompileInputs.cache
+C:\Users\Kristofer\source\repos\PictureViewer\PictureViewer\obj\Debug\PictureViewer.exe
+C:\Users\Kristofer\source\repos\PictureViewer\PictureViewer\obj\Debug\PictureViewer.pdb
+C:\Users\arhip\Documents\Visual Studio 2022\gunnar codes\PictureViewer-main\PictureViewer\bin\Debug\PictureViewer.exe.config
+C:\Users\arhip\Documents\Visual Studio 2022\gunnar codes\PictureViewer-main\PictureViewer\bin\Debug\PictureViewer.exe
+C:\Users\arhip\Documents\Visual Studio 2022\gunnar codes\PictureViewer-main\PictureViewer\bin\Debug\PictureViewer.pdb
+C:\Users\arhip\Documents\Visual Studio 2022\gunnar codes\PictureViewer-main\PictureViewer\obj\Debug\PictureViewer.csproj.AssemblyReference.cache
+C:\Users\arhip\Documents\Visual Studio 2022\gunnar codes\PictureViewer-main\PictureViewer\obj\Debug\PictureViewer.csproj.SuggestedBindingRedirects.cache
+C:\Users\arhip\Documents\Visual Studio 2022\gunnar codes\PictureViewer-main\PictureViewer\obj\Debug\PictureViewer.Form1.resources
+C:\Users\arhip\Documents\Visual Studio 2022\gunnar codes\PictureViewer-main\PictureViewer\obj\Debug\PictureViewer.Properties.Resources.resources
+C:\Users\arhip\Documents\Visual Studio 2022\gunnar codes\PictureViewer-main\PictureViewer\obj\Debug\PictureViewer.csproj.GenerateResource.cache
+C:\Users\arhip\Documents\Visual Studio 2022\gunnar codes\PictureViewer-main\PictureViewer\obj\Debug\PictureViewer.csproj.CoreCompileInputs.cache
+C:\Users\arhip\Documents\Visual Studio 2022\gunnar codes\PictureViewer-main\PictureViewer\obj\Debug\PictureViewer.exe
+C:\Users\arhip\Documents\Visual Studio 2022\gunnar codes\PictureViewer-main\PictureViewer\obj\Debug\PictureViewer.pdb

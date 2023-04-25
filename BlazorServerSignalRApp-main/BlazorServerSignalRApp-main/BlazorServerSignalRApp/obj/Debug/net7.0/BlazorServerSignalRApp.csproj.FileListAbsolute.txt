@@ -1,0 +1,126 @@
+C:\Users\Kristofer\source\repos\BlazorServerSignalRApp\BlazorServerSignalRApp\obj\Debug\net7.0\BlazorServerSignalRApp.csproj.AssemblyReference.cache
+C:\Users\Kristofer\source\repos\BlazorServerSignalRApp\BlazorServerSignalRApp\obj\Debug\net7.0\BlazorServerSignalRApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kristofer\source\repos\BlazorServerSignalRApp\BlazorServerSignalRApp\obj\Debug\net7.0\BlazorServerSignalRApp.AssemblyInfoInputs.cache
+C:\Users\Kristofer\source\repos\BlazorServerSignalRApp\BlazorServerSignalRApp\obj\Debug\net7.0\BlazorServerSignalRApp.AssemblyInfo.cs
+C:\Users\Kristofer\source\repos\BlazorServerSignalRApp\BlazorServerSignalRApp\obj\Debug\net7.0\BlazorServerSignalRApp.csproj.CoreCompileInputs.cache
+C:\Users\Kristofer\source\repos\BlazorServerSignalRApp\BlazorServerSignalRApp\obj\Debug\net7.0\BlazorServerSignalRApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Kristofer\source\repos\BlazorServerSignalRApp\BlazorServerSignalRApp\obj\Debug\net7.0\BlazorServerSignalRApp.RazorAssemblyInfo.cache
+C:\Users\Kristofer\source\repos\BlazorServerSignalRApp\BlazorServerSignalRApp\obj\Debug\net7.0\BlazorServerSignalRApp.RazorAssemblyInfo.cs
+C:\Users\Kristofer\source\repos\BlazorServerSignalRApp\BlazorServerSignalRApp\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Kristofer\source\repos\BlazorServerSignalRApp\BlazorServerSignalRApp\bin\Debug\net7.0\appsettings.json
+C:\Users\Kristofer\source\repos\BlazorServerSignalRApp\BlazorServerSignalRApp\bin\Debug\net7.0\BlazorServerSignalRApp.staticwebassets.runtime.json
+C:\Users\Kristofer\source\repos\BlazorServerSignalRApp\BlazorServerSignalRApp\bin\Debug\net7.0\BlazorServerSignalRApp.exe
+C:\Users\Kristofer\source\repos\BlazorServerSignalRApp\BlazorServerSignalRApp\bin\Debug\net7.0\BlazorServerSignalRApp.deps.json
+C:\Users\Kristofer\source\repos\BlazorServerSignalRApp\BlazorServerSignalRApp\bin\Debug\net7.0\BlazorServerSignalRApp.runtimeconfig.json
+C:\Users\Kristofer\source\repos\BlazorServerSignalRApp\BlazorServerSignalRApp\bin\Debug\net7.0\BlazorServerSignalRApp.dll
+C:\Users\Kristofer\source\repos\BlazorServerSignalRApp\BlazorServerSignalRApp\bin\Debug\net7.0\BlazorServerSignalRApp.pdb
+C:\Users\Kristofer\source\repos\BlazorServerSignalRApp\BlazorServerSignalRApp\bin\Debug\net7.0\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\Kristofer\source\repos\BlazorServerSignalRApp\BlazorServerSignalRApp\bin\Debug\net7.0\Microsoft.AspNetCore.Http.Connections.Client.dll
+C:\Users\Kristofer\source\repos\BlazorServerSignalRApp\BlazorServerSignalRApp\bin\Debug\net7.0\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\Users\Kristofer\source\repos\BlazorServerSignalRApp\BlazorServerSignalRApp\bin\Debug\net7.0\Microsoft.AspNetCore.SignalR.Client.dll
+C:\Users\Kristofer\source\repos\BlazorServerSignalRApp\BlazorServerSignalRApp\bin\Debug\net7.0\Microsoft.AspNetCore.SignalR.Client.Core.dll
+C:\Users\Kristofer\source\repos\BlazorServerSignalRApp\BlazorServerSignalRApp\bin\Debug\net7.0\Microsoft.AspNetCore.SignalR.Common.dll
+C:\Users\Kristofer\source\repos\BlazorServerSignalRApp\BlazorServerSignalRApp\bin\Debug\net7.0\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\Users\Kristofer\source\repos\BlazorServerSignalRApp\BlazorServerSignalRApp\bin\Debug\net7.0\Microsoft.Extensions.Features.dll
+C:\Users\Kristofer\source\repos\BlazorServerSignalRApp\BlazorServerSignalRApp\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\Kristofer\source\repos\BlazorServerSignalRApp\BlazorServerSignalRApp\obj\Debug\net7.0\staticwebassets\msbuild.BlazorServerSignalRApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Kristofer\source\repos\BlazorServerSignalRApp\BlazorServerSignalRApp\obj\Debug\net7.0\staticwebassets\msbuild.build.BlazorServerSignalRApp.props
+C:\Users\Kristofer\source\repos\BlazorServerSignalRApp\BlazorServerSignalRApp\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.BlazorServerSignalRApp.props
+C:\Users\Kristofer\source\repos\BlazorServerSignalRApp\BlazorServerSignalRApp\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.BlazorServerSignalRApp.props
+C:\Users\Kristofer\source\repos\BlazorServerSignalRApp\BlazorServerSignalRApp\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Kristofer\source\repos\BlazorServerSignalRApp\BlazorServerSignalRApp\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Kristofer\source\repos\BlazorServerSignalRApp\BlazorServerSignalRApp\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Kristofer\source\repos\BlazorServerSignalRApp\BlazorServerSignalRApp\obj\Debug\net7.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Users\Kristofer\source\repos\BlazorServerSignalRApp\BlazorServerSignalRApp\obj\Debug\net7.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\Users\Kristofer\source\repos\BlazorServerSignalRApp\BlazorServerSignalRApp\obj\Debug\net7.0\scopedcss\bundle\BlazorServerSignalRApp.styles.css
+C:\Users\Kristofer\source\repos\BlazorServerSignalRApp\BlazorServerSignalRApp\obj\Debug\net7.0\scopedcss\projectbundle\BlazorServerSignalRApp.bundle.scp.css
+C:\Users\Kristofer\source\repos\BlazorServerSignalRApp\BlazorServerSignalRApp\obj\Debug\net7.0\BlazorServerSignalRApp.csproj.CopyComplete
+C:\Users\Kristofer\source\repos\BlazorServerSignalRApp\BlazorServerSignalRApp\obj\Debug\net7.0\BlazorServerSignalRApp.dll
+C:\Users\Kristofer\source\repos\BlazorServerSignalRApp\BlazorServerSignalRApp\obj\Debug\net7.0\refint\BlazorServerSignalRApp.dll
+C:\Users\Kristofer\source\repos\BlazorServerSignalRApp\BlazorServerSignalRApp\obj\Debug\net7.0\BlazorServerSignalRApp.pdb
+C:\Users\Kristofer\source\repos\BlazorServerSignalRApp\BlazorServerSignalRApp\obj\Debug\net7.0\BlazorServerSignalRApp.genruntimeconfig.cache
+C:\Users\Kristofer\source\repos\BlazorServerSignalRApp\BlazorServerSignalRApp\obj\Debug\net7.0\ref\BlazorServerSignalRApp.dll
+C:\Users\arhip\Downloads\BlazorServerSignalRApp-main\BlazorServerSignalRApp-main\BlazorServerSignalRApp\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\arhip\Downloads\BlazorServerSignalRApp-main\BlazorServerSignalRApp-main\BlazorServerSignalRApp\bin\Debug\net7.0\appsettings.json
+C:\Users\arhip\Downloads\BlazorServerSignalRApp-main\BlazorServerSignalRApp-main\BlazorServerSignalRApp\bin\Debug\net7.0\BlazorServerSignalRApp.staticwebassets.runtime.json
+C:\Users\arhip\Downloads\BlazorServerSignalRApp-main\BlazorServerSignalRApp-main\BlazorServerSignalRApp\bin\Debug\net7.0\BlazorServerSignalRApp.exe
+C:\Users\arhip\Downloads\BlazorServerSignalRApp-main\BlazorServerSignalRApp-main\BlazorServerSignalRApp\bin\Debug\net7.0\BlazorServerSignalRApp.deps.json
+C:\Users\arhip\Downloads\BlazorServerSignalRApp-main\BlazorServerSignalRApp-main\BlazorServerSignalRApp\bin\Debug\net7.0\BlazorServerSignalRApp.runtimeconfig.json
+C:\Users\arhip\Downloads\BlazorServerSignalRApp-main\BlazorServerSignalRApp-main\BlazorServerSignalRApp\bin\Debug\net7.0\BlazorServerSignalRApp.dll
+C:\Users\arhip\Downloads\BlazorServerSignalRApp-main\BlazorServerSignalRApp-main\BlazorServerSignalRApp\bin\Debug\net7.0\BlazorServerSignalRApp.pdb
+C:\Users\arhip\Downloads\BlazorServerSignalRApp-main\BlazorServerSignalRApp-main\BlazorServerSignalRApp\bin\Debug\net7.0\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\arhip\Downloads\BlazorServerSignalRApp-main\BlazorServerSignalRApp-main\BlazorServerSignalRApp\bin\Debug\net7.0\Microsoft.AspNetCore.Http.Connections.Client.dll
+C:\Users\arhip\Downloads\BlazorServerSignalRApp-main\BlazorServerSignalRApp-main\BlazorServerSignalRApp\bin\Debug\net7.0\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\Users\arhip\Downloads\BlazorServerSignalRApp-main\BlazorServerSignalRApp-main\BlazorServerSignalRApp\bin\Debug\net7.0\Microsoft.AspNetCore.SignalR.Client.dll
+C:\Users\arhip\Downloads\BlazorServerSignalRApp-main\BlazorServerSignalRApp-main\BlazorServerSignalRApp\bin\Debug\net7.0\Microsoft.AspNetCore.SignalR.Client.Core.dll
+C:\Users\arhip\Downloads\BlazorServerSignalRApp-main\BlazorServerSignalRApp-main\BlazorServerSignalRApp\bin\Debug\net7.0\Microsoft.AspNetCore.SignalR.Common.dll
+C:\Users\arhip\Downloads\BlazorServerSignalRApp-main\BlazorServerSignalRApp-main\BlazorServerSignalRApp\bin\Debug\net7.0\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\Users\arhip\Downloads\BlazorServerSignalRApp-main\BlazorServerSignalRApp-main\BlazorServerSignalRApp\bin\Debug\net7.0\Microsoft.Extensions.Features.dll
+C:\Users\arhip\Downloads\BlazorServerSignalRApp-main\BlazorServerSignalRApp-main\BlazorServerSignalRApp\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\arhip\Downloads\BlazorServerSignalRApp-main\BlazorServerSignalRApp-main\BlazorServerSignalRApp\obj\Debug\net7.0\BlazorServerSignalRApp.csproj.AssemblyReference.cache
+C:\Users\arhip\Downloads\BlazorServerSignalRApp-main\BlazorServerSignalRApp-main\BlazorServerSignalRApp\obj\Debug\net7.0\BlazorServerSignalRApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arhip\Downloads\BlazorServerSignalRApp-main\BlazorServerSignalRApp-main\BlazorServerSignalRApp\obj\Debug\net7.0\BlazorServerSignalRApp.AssemblyInfoInputs.cache
+C:\Users\arhip\Downloads\BlazorServerSignalRApp-main\BlazorServerSignalRApp-main\BlazorServerSignalRApp\obj\Debug\net7.0\BlazorServerSignalRApp.AssemblyInfo.cs
+C:\Users\arhip\Downloads\BlazorServerSignalRApp-main\BlazorServerSignalRApp-main\BlazorServerSignalRApp\obj\Debug\net7.0\BlazorServerSignalRApp.csproj.CoreCompileInputs.cache
+C:\Users\arhip\Downloads\BlazorServerSignalRApp-main\BlazorServerSignalRApp-main\BlazorServerSignalRApp\obj\Debug\net7.0\BlazorServerSignalRApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\arhip\Downloads\BlazorServerSignalRApp-main\BlazorServerSignalRApp-main\BlazorServerSignalRApp\obj\Debug\net7.0\BlazorServerSignalRApp.RazorAssemblyInfo.cache
+C:\Users\arhip\Downloads\BlazorServerSignalRApp-main\BlazorServerSignalRApp-main\BlazorServerSignalRApp\obj\Debug\net7.0\BlazorServerSignalRApp.RazorAssemblyInfo.cs
+C:\Users\arhip\Downloads\BlazorServerSignalRApp-main\BlazorServerSignalRApp-main\BlazorServerSignalRApp\obj\Debug\net7.0\staticwebassets\msbuild.BlazorServerSignalRApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\arhip\Downloads\BlazorServerSignalRApp-main\BlazorServerSignalRApp-main\BlazorServerSignalRApp\obj\Debug\net7.0\staticwebassets\msbuild.build.BlazorServerSignalRApp.props
+C:\Users\arhip\Downloads\BlazorServerSignalRApp-main\BlazorServerSignalRApp-main\BlazorServerSignalRApp\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.BlazorServerSignalRApp.props
+C:\Users\arhip\Downloads\BlazorServerSignalRApp-main\BlazorServerSignalRApp-main\BlazorServerSignalRApp\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.BlazorServerSignalRApp.props
+C:\Users\arhip\Downloads\BlazorServerSignalRApp-main\BlazorServerSignalRApp-main\BlazorServerSignalRApp\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\arhip\Downloads\BlazorServerSignalRApp-main\BlazorServerSignalRApp-main\BlazorServerSignalRApp\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\arhip\Downloads\BlazorServerSignalRApp-main\BlazorServerSignalRApp-main\BlazorServerSignalRApp\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\arhip\Downloads\BlazorServerSignalRApp-main\BlazorServerSignalRApp-main\BlazorServerSignalRApp\obj\Debug\net7.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Users\arhip\Downloads\BlazorServerSignalRApp-main\BlazorServerSignalRApp-main\BlazorServerSignalRApp\obj\Debug\net7.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\Users\arhip\Downloads\BlazorServerSignalRApp-main\BlazorServerSignalRApp-main\BlazorServerSignalRApp\obj\Debug\net7.0\scopedcss\bundle\BlazorServerSignalRApp.styles.css
+C:\Users\arhip\Downloads\BlazorServerSignalRApp-main\BlazorServerSignalRApp-main\BlazorServerSignalRApp\obj\Debug\net7.0\scopedcss\projectbundle\BlazorServerSignalRApp.bundle.scp.css
+C:\Users\arhip\Downloads\BlazorServerSignalRApp-main\BlazorServerSignalRApp-main\BlazorServerSignalRApp\obj\Debug\net7.0\BlazorServerSignalRApp.csproj.CopyComplete
+C:\Users\arhip\Downloads\BlazorServerSignalRApp-main\BlazorServerSignalRApp-main\BlazorServerSignalRApp\obj\Debug\net7.0\BlazorServerSignalRApp.dll
+C:\Users\arhip\Downloads\BlazorServerSignalRApp-main\BlazorServerSignalRApp-main\BlazorServerSignalRApp\obj\Debug\net7.0\refint\BlazorServerSignalRApp.dll
+C:\Users\arhip\Downloads\BlazorServerSignalRApp-main\BlazorServerSignalRApp-main\BlazorServerSignalRApp\obj\Debug\net7.0\BlazorServerSignalRApp.pdb
+C:\Users\arhip\Downloads\BlazorServerSignalRApp-main\BlazorServerSignalRApp-main\BlazorServerSignalRApp\obj\Debug\net7.0\BlazorServerSignalRApp.genruntimeconfig.cache
+C:\Users\arhip\Downloads\BlazorServerSignalRApp-main\BlazorServerSignalRApp-main\BlazorServerSignalRApp\obj\Debug\net7.0\ref\BlazorServerSignalRApp.dll
+C:\Users\arhip\Documents\Visual Studio 2022\gunnar codes\BlazorServerSignalRApp-main\BlazorServerSignalRApp-main\BlazorServerSignalRApp\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\arhip\Documents\Visual Studio 2022\gunnar codes\BlazorServerSignalRApp-main\BlazorServerSignalRApp-main\BlazorServerSignalRApp\bin\Debug\net7.0\appsettings.json
+C:\Users\arhip\Documents\Visual Studio 2022\gunnar codes\BlazorServerSignalRApp-main\BlazorServerSignalRApp-main\BlazorServerSignalRApp\bin\Debug\net7.0\BlazorServerSignalRApp.staticwebassets.runtime.json
+C:\Users\arhip\Documents\Visual Studio 2022\gunnar codes\BlazorServerSignalRApp-main\BlazorServerSignalRApp-main\BlazorServerSignalRApp\bin\Debug\net7.0\BlazorServerSignalRApp.exe
+C:\Users\arhip\Documents\Visual Studio 2022\gunnar codes\BlazorServerSignalRApp-main\BlazorServerSignalRApp-main\BlazorServerSignalRApp\bin\Debug\net7.0\BlazorServerSignalRApp.deps.json
+C:\Users\arhip\Documents\Visual Studio 2022\gunnar codes\BlazorServerSignalRApp-main\BlazorServerSignalRApp-main\BlazorServerSignalRApp\bin\Debug\net7.0\BlazorServerSignalRApp.runtimeconfig.json
+C:\Users\arhip\Documents\Visual Studio 2022\gunnar codes\BlazorServerSignalRApp-main\BlazorServerSignalRApp-main\BlazorServerSignalRApp\bin\Debug\net7.0\BlazorServerSignalRApp.dll
+C:\Users\arhip\Documents\Visual Studio 2022\gunnar codes\BlazorServerSignalRApp-main\BlazorServerSignalRApp-main\BlazorServerSignalRApp\bin\Debug\net7.0\BlazorServerSignalRApp.pdb
+C:\Users\arhip\Documents\Visual Studio 2022\gunnar codes\BlazorServerSignalRApp-main\BlazorServerSignalRApp-main\BlazorServerSignalRApp\bin\Debug\net7.0\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\arhip\Documents\Visual Studio 2022\gunnar codes\BlazorServerSignalRApp-main\BlazorServerSignalRApp-main\BlazorServerSignalRApp\bin\Debug\net7.0\Microsoft.AspNetCore.Http.Connections.Client.dll
+C:\Users\arhip\Documents\Visual Studio 2022\gunnar codes\BlazorServerSignalRApp-main\BlazorServerSignalRApp-main\BlazorServerSignalRApp\bin\Debug\net7.0\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\Users\arhip\Documents\Visual Studio 2022\gunnar codes\BlazorServerSignalRApp-main\BlazorServerSignalRApp-main\BlazorServerSignalRApp\bin\Debug\net7.0\Microsoft.AspNetCore.SignalR.Client.dll
+C:\Users\arhip\Documents\Visual Studio 2022\gunnar codes\BlazorServerSignalRApp-main\BlazorServerSignalRApp-main\BlazorServerSignalRApp\bin\Debug\net7.0\Microsoft.AspNetCore.SignalR.Client.Core.dll
+C:\Users\arhip\Documents\Visual Studio 2022\gunnar codes\BlazorServerSignalRApp-main\BlazorServerSignalRApp-main\BlazorServerSignalRApp\bin\Debug\net7.0\Microsoft.AspNetCore.SignalR.Common.dll
+C:\Users\arhip\Documents\Visual Studio 2022\gunnar codes\BlazorServerSignalRApp-main\BlazorServerSignalRApp-main\BlazorServerSignalRApp\bin\Debug\net7.0\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\Users\arhip\Documents\Visual Studio 2022\gunnar codes\BlazorServerSignalRApp-main\BlazorServerSignalRApp-main\BlazorServerSignalRApp\bin\Debug\net7.0\Microsoft.Extensions.Features.dll
+C:\Users\arhip\Documents\Visual Studio 2022\gunnar codes\BlazorServerSignalRApp-main\BlazorServerSignalRApp-main\BlazorServerSignalRApp\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\arhip\Documents\Visual Studio 2022\gunnar codes\BlazorServerSignalRApp-main\BlazorServerSignalRApp-main\BlazorServerSignalRApp\obj\Debug\net7.0\BlazorServerSignalRApp.csproj.AssemblyReference.cache
+C:\Users\arhip\Documents\Visual Studio 2022\gunnar codes\BlazorServerSignalRApp-main\BlazorServerSignalRApp-main\BlazorServerSignalRApp\obj\Debug\net7.0\BlazorServerSignalRApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arhip\Documents\Visual Studio 2022\gunnar codes\BlazorServerSignalRApp-main\BlazorServerSignalRApp-main\BlazorServerSignalRApp\obj\Debug\net7.0\BlazorServerSignalRApp.AssemblyInfoInputs.cache
+C:\Users\arhip\Documents\Visual Studio 2022\gunnar codes\BlazorServerSignalRApp-main\BlazorServerSignalRApp-main\BlazorServerSignalRApp\obj\Debug\net7.0\BlazorServerSignalRApp.AssemblyInfo.cs
+C:\Users\arhip\Documents\Visual Studio 2022\gunnar codes\BlazorServerSignalRApp-main\BlazorServerSignalRApp-main\BlazorServerSignalRApp\obj\Debug\net7.0\BlazorServerSignalRApp.csproj.CoreCompileInputs.cache
+C:\Users\arhip\Documents\Visual Studio 2022\gunnar codes\BlazorServerSignalRApp-main\BlazorServerSignalRApp-main\BlazorServerSignalRApp\obj\Debug\net7.0\BlazorServerSignalRApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\arhip\Documents\Visual Studio 2022\gunnar codes\BlazorServerSignalRApp-main\BlazorServerSignalRApp-main\BlazorServerSignalRApp\obj\Debug\net7.0\BlazorServerSignalRApp.RazorAssemblyInfo.cache
+C:\Users\arhip\Documents\Visual Studio 2022\gunnar codes\BlazorServerSignalRApp-main\BlazorServerSignalRApp-main\BlazorServerSignalRApp\obj\Debug\net7.0\BlazorServerSignalRApp.RazorAssemblyInfo.cs
+C:\Users\arhip\Documents\Visual Studio 2022\gunnar codes\BlazorServerSignalRApp-main\BlazorServerSignalRApp-main\BlazorServerSignalRApp\obj\Debug\net7.0\staticwebassets\msbuild.BlazorServerSignalRApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\arhip\Documents\Visual Studio 2022\gunnar codes\BlazorServerSignalRApp-main\BlazorServerSignalRApp-main\BlazorServerSignalRApp\obj\Debug\net7.0\staticwebassets\msbuild.build.BlazorServerSignalRApp.props
+C:\Users\arhip\Documents\Visual Studio 2022\gunnar codes\BlazorServerSignalRApp-main\BlazorServerSignalRApp-main\BlazorServerSignalRApp\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.BlazorServerSignalRApp.props
+C:\Users\arhip\Documents\Visual Studio 2022\gunnar codes\BlazorServerSignalRApp-main\BlazorServerSignalRApp-main\BlazorServerSignalRApp\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.BlazorServerSignalRApp.props
+C:\Users\arhip\Documents\Visual Studio 2022\gunnar codes\BlazorServerSignalRApp-main\BlazorServerSignalRApp-main\BlazorServerSignalRApp\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\arhip\Documents\Visual Studio 2022\gunnar codes\BlazorServerSignalRApp-main\BlazorServerSignalRApp-main\BlazorServerSignalRApp\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\arhip\Documents\Visual Studio 2022\gunnar codes\BlazorServerSignalRApp-main\BlazorServerSignalRApp-main\BlazorServerSignalRApp\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\arhip\Documents\Visual Studio 2022\gunnar codes\BlazorServerSignalRApp-main\BlazorServerSignalRApp-main\BlazorServerSignalRApp\obj\Debug\net7.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Users\arhip\Documents\Visual Studio 2022\gunnar codes\BlazorServerSignalRApp-main\BlazorServerSignalRApp-main\BlazorServerSignalRApp\obj\Debug\net7.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\Users\arhip\Documents\Visual Studio 2022\gunnar codes\BlazorServerSignalRApp-main\BlazorServerSignalRApp-main\BlazorServerSignalRApp\obj\Debug\net7.0\scopedcss\bundle\BlazorServerSignalRApp.styles.css
+C:\Users\arhip\Documents\Visual Studio 2022\gunnar codes\BlazorServerSignalRApp-main\BlazorServerSignalRApp-main\BlazorServerSignalRApp\obj\Debug\net7.0\scopedcss\projectbundle\BlazorServerSignalRApp.bundle.scp.css
+C:\Users\arhip\Documents\Visual Studio 2022\gunnar codes\BlazorServerSignalRApp-main\BlazorServerSignalRApp-main\BlazorServerSignalRApp\obj\Debug\net7.0\BlazorServerSignalRApp.csproj.CopyComplete
+C:\Users\arhip\Documents\Visual Studio 2022\gunnar codes\BlazorServerSignalRApp-main\BlazorServerSignalRApp-main\BlazorServerSignalRApp\obj\Debug\net7.0\BlazorServerSignalRApp.dll
+C:\Users\arhip\Documents\Visual Studio 2022\gunnar codes\BlazorServerSignalRApp-main\BlazorServerSignalRApp-main\BlazorServerSignalRApp\obj\Debug\net7.0\refint\BlazorServerSignalRApp.dll
+C:\Users\arhip\Documents\Visual Studio 2022\gunnar codes\BlazorServerSignalRApp-main\BlazorServerSignalRApp-main\BlazorServerSignalRApp\obj\Debug\net7.0\BlazorServerSignalRApp.pdb
+C:\Users\arhip\Documents\Visual Studio 2022\gunnar codes\BlazorServerSignalRApp-main\BlazorServerSignalRApp-main\BlazorServerSignalRApp\obj\Debug\net7.0\BlazorServerSignalRApp.genruntimeconfig.cache
+C:\Users\arhip\Documents\Visual Studio 2022\gunnar codes\BlazorServerSignalRApp-main\BlazorServerSignalRApp-main\BlazorServerSignalRApp\obj\Debug\net7.0\ref\BlazorServerSignalRApp.dll

@@ -1,0 +1,40 @@
+C:\Users\Kristofer\source\repos\ExpenseIt\ExpenseIt\bin\Debug\ExpenseIt.exe.config
+C:\Users\Kristofer\source\repos\ExpenseIt\ExpenseIt\bin\Debug\ExpenseIt.exe
+C:\Users\Kristofer\source\repos\ExpenseIt\ExpenseIt\bin\Debug\ExpenseIt.pdb
+C:\Users\Kristofer\source\repos\ExpenseIt\ExpenseIt\obj\Debug\ExpenseIt.csproj.AssemblyReference.cache
+C:\Users\Kristofer\source\repos\ExpenseIt\ExpenseIt\obj\Debug\ExpenseIt.csproj.SuggestedBindingRedirects.cache
+C:\Users\Kristofer\source\repos\ExpenseIt\ExpenseIt\obj\Debug\ExpenseItHome.baml
+C:\Users\Kristofer\source\repos\ExpenseIt\ExpenseIt\obj\Debug\ExpenseReportPage.baml
+C:\Users\Kristofer\source\repos\ExpenseIt\ExpenseIt\obj\Debug\MainWindow.baml
+C:\Users\Kristofer\source\repos\ExpenseIt\ExpenseIt\obj\Debug\ExpenseItHome.g.cs
+C:\Users\Kristofer\source\repos\ExpenseIt\ExpenseIt\obj\Debug\ExpenseReportPage.g.cs
+C:\Users\Kristofer\source\repos\ExpenseIt\ExpenseIt\obj\Debug\MainWindow.g.cs
+C:\Users\Kristofer\source\repos\ExpenseIt\ExpenseIt\obj\Debug\App.g.cs
+C:\Users\Kristofer\source\repos\ExpenseIt\ExpenseIt\obj\Debug\ExpenseIt_MarkupCompile.cache
+C:\Users\Kristofer\source\repos\ExpenseIt\ExpenseIt\obj\Debug\ExpenseIt.g.resources
+C:\Users\Kristofer\source\repos\ExpenseIt\ExpenseIt\obj\Debug\ExpenseIt.Properties.Resources.resources
+C:\Users\Kristofer\source\repos\ExpenseIt\ExpenseIt\obj\Debug\ExpenseIt.csproj.GenerateResource.cache
+C:\Users\Kristofer\source\repos\ExpenseIt\ExpenseIt\obj\Debug\ExpenseIt.csproj.CoreCompileInputs.cache
+C:\Users\Kristofer\source\repos\ExpenseIt\ExpenseIt\obj\Debug\ExpenseIt.exe
+C:\Users\Kristofer\source\repos\ExpenseIt\ExpenseIt\obj\Debug\ExpenseIt.pdb
+C:\Users\Kristofer\source\repos\ExpenseIt\ExpenseIt\obj\Debug\App.baml
+C:\Users\arhip\Documents\Visual Studio 2022\gunnar codes\ExpenseIt-main\ExpenseIt\bin\Debug\ExpenseIt.exe.config
+C:\Users\arhip\Documents\Visual Studio 2022\gunnar codes\ExpenseIt-main\ExpenseIt\bin\Debug\ExpenseIt.exe
+C:\Users\arhip\Documents\Visual Studio 2022\gunnar codes\ExpenseIt-main\ExpenseIt\bin\Debug\ExpenseIt.pdb
+C:\Users\arhip\Documents\Visual Studio 2022\gunnar codes\ExpenseIt-main\ExpenseIt\obj\Debug\ExpenseIt.csproj.AssemblyReference.cache
+C:\Users\arhip\Documents\Visual Studio 2022\gunnar codes\ExpenseIt-main\ExpenseIt\obj\Debug\ExpenseIt.csproj.SuggestedBindingRedirects.cache
+C:\Users\arhip\Documents\Visual Studio 2022\gunnar codes\ExpenseIt-main\ExpenseIt\obj\Debug\ExpenseItHome.baml
+C:\Users\arhip\Documents\Visual Studio 2022\gunnar codes\ExpenseIt-main\ExpenseIt\obj\Debug\ExpenseReportPage.baml
+C:\Users\arhip\Documents\Visual Studio 2022\gunnar codes\ExpenseIt-main\ExpenseIt\obj\Debug\MainWindow.baml
+C:\Users\arhip\Documents\Visual Studio 2022\gunnar codes\ExpenseIt-main\ExpenseIt\obj\Debug\App.baml
+C:\Users\arhip\Documents\Visual Studio 2022\gunnar codes\ExpenseIt-main\ExpenseIt\obj\Debug\ExpenseItHome.g.cs
+C:\Users\arhip\Documents\Visual Studio 2022\gunnar codes\ExpenseIt-main\ExpenseIt\obj\Debug\ExpenseReportPage.g.cs
+C:\Users\arhip\Documents\Visual Studio 2022\gunnar codes\ExpenseIt-main\ExpenseIt\obj\Debug\MainWindow.g.cs
+C:\Users\arhip\Documents\Visual Studio 2022\gunnar codes\ExpenseIt-main\ExpenseIt\obj\Debug\App.g.cs
+C:\Users\arhip\Documents\Visual Studio 2022\gunnar codes\ExpenseIt-main\ExpenseIt\obj\Debug\ExpenseIt_MarkupCompile.cache
+C:\Users\arhip\Documents\Visual Studio 2022\gunnar codes\ExpenseIt-main\ExpenseIt\obj\Debug\ExpenseIt.g.resources
+C:\Users\arhip\Documents\Visual Studio 2022\gunnar codes\ExpenseIt-main\ExpenseIt\obj\Debug\ExpenseIt.Properties.Resources.resources
+C:\Users\arhip\Documents\Visual Studio 2022\gunnar codes\ExpenseIt-main\ExpenseIt\obj\Debug\ExpenseIt.csproj.GenerateResource.cache
+C:\Users\arhip\Documents\Visual Studio 2022\gunnar codes\ExpenseIt-main\ExpenseIt\obj\Debug\ExpenseIt.csproj.CoreCompileInputs.cache
+C:\Users\arhip\Documents\Visual Studio 2022\gunnar codes\ExpenseIt-main\ExpenseIt\obj\Debug\ExpenseIt.exe
+C:\Users\arhip\Documents\Visual Studio 2022\gunnar codes\ExpenseIt-main\ExpenseIt\obj\Debug\ExpenseIt.pdb

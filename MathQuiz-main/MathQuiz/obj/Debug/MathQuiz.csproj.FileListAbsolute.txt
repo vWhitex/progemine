@@ -1,0 +1,22 @@
+C:\Users\u-115\source\repos\MathQuiz\MathQuiz\bin\Debug\MathQuiz.exe.config
+C:\Users\u-115\source\repos\MathQuiz\MathQuiz\bin\Debug\MathQuiz.exe
+C:\Users\u-115\source\repos\MathQuiz\MathQuiz\bin\Debug\MathQuiz.pdb
+C:\Users\u-115\source\repos\MathQuiz\MathQuiz\obj\Debug\MathQuiz.csproj.AssemblyReference.cache
+C:\Users\u-115\source\repos\MathQuiz\MathQuiz\obj\Debug\MathQuiz.csproj.SuggestedBindingRedirects.cache
+C:\Users\u-115\source\repos\MathQuiz\MathQuiz\obj\Debug\MathQuiz.Form1.resources
+C:\Users\u-115\source\repos\MathQuiz\MathQuiz\obj\Debug\MathQuiz.Properties.Resources.resources
+C:\Users\u-115\source\repos\MathQuiz\MathQuiz\obj\Debug\MathQuiz.csproj.GenerateResource.cache
+C:\Users\u-115\source\repos\MathQuiz\MathQuiz\obj\Debug\MathQuiz.csproj.CoreCompileInputs.cache
+C:\Users\u-115\source\repos\MathQuiz\MathQuiz\obj\Debug\MathQuiz.exe
+C:\Users\u-115\source\repos\MathQuiz\MathQuiz\obj\Debug\MathQuiz.pdb
+C:\Users\arhip\Documents\Visual Studio 2022\gunnar codes\MathQuiz-main\MathQuiz\bin\Debug\MathQuiz.exe.config
+C:\Users\arhip\Documents\Visual Studio 2022\gunnar codes\MathQuiz-main\MathQuiz\bin\Debug\MathQuiz.exe
+C:\Users\arhip\Documents\Visual Studio 2022\gunnar codes\MathQuiz-main\MathQuiz\bin\Debug\MathQuiz.pdb
+C:\Users\arhip\Documents\Visual Studio 2022\gunnar codes\MathQuiz-main\MathQuiz\obj\Debug\MathQuiz.csproj.AssemblyReference.cache
+C:\Users\arhip\Documents\Visual Studio 2022\gunnar codes\MathQuiz-main\MathQuiz\obj\Debug\MathQuiz.csproj.SuggestedBindingRedirects.cache
+C:\Users\arhip\Documents\Visual Studio 2022\gunnar codes\MathQuiz-main\MathQuiz\obj\Debug\MathQuiz.Form1.resources
+C:\Users\arhip\Documents\Visual Studio 2022\gunnar codes\MathQuiz-main\MathQuiz\obj\Debug\MathQuiz.Properties.Resources.resources
+C:\Users\arhip\Documents\Visual Studio 2022\gunnar codes\MathQuiz-main\MathQuiz\obj\Debug\MathQuiz.csproj.GenerateResource.cache
+C:\Users\arhip\Documents\Visual Studio 2022\gunnar codes\MathQuiz-main\MathQuiz\obj\Debug\MathQuiz.csproj.CoreCompileInputs.cache
+C:\Users\arhip\Documents\Visual Studio 2022\gunnar codes\MathQuiz-main\MathQuiz\obj\Debug\MathQuiz.exe
+C:\Users\arhip\Documents\Visual Studio 2022\gunnar codes\MathQuiz-main\MathQuiz\obj\Debug\MathQuiz.pdb

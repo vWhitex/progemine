@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "VIcVSk21GId95Wy/I0DnM7iosY1VHXpgtjm3MOShW21PUek7td2oLILdpoFMECgLeBALeeg0hdzyRjZ8Rl3C6A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\arhip\\Documents\\Gunnar-Kodutoo-main\\Calculator-CSharp\\CalculatorLib\\CalculatorLib.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\arhip\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\arhip\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
